@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="no_items">No Items</string>
+    <string name="new_items">New Item</string>
+    <string name="edit_items">Edit Item</string>
+    <string name="item_title">Item Name</string>
+    <string name="item_desc">Item Description</string>
+    <string name="item_price">Estimated Price</string>
+    <string name="sum_title">Shopping List Summary</string>
+    <string name="sum_items">"Shopping Items: "</string>
+    <string name="sum_cost">Estimated Cost: $</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_save">Save</string>
+    <string name="exp_desc">"Description: "</string>
+    <string name="exp_price">"Estimated Price: $"</string>
+
+
+
+</resources>

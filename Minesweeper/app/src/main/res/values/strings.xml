@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="btn_reset">Reset</string>
+    <string name="pop_over">Game Over</string>
+    <string name="pop_won">You Won! :) </string>
+    <string name="pop_lost">You Lost! :( </string>
+
+</resources>

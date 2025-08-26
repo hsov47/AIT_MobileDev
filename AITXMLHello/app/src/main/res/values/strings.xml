@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">AITXMLHello</string>
+    <string name="btn_show_time">Show time</string>
+
+    <string name="text_sum">Summary: %1$d %2$s</string>
+
+</resources>
