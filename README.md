@@ -1,4 +1,4 @@
-# 📱 Mobile Development Projects (Hungary, 2025)
+# 📱 Mobile Development Projects (Hungary, Spring 2025)
 
 This is a collection of mobile app projects built during my Mobile Development course in Hungary, taught by **Professor Péter Eckler**.
 
