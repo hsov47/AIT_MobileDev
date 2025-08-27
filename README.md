@@ -1,6 +1,6 @@
 # 📱 Mobile Development Projects (Hungary, Spring 2025)
 
-This is a collection of mobile app projects built during my Mobile Development course in Hungary, taught by **Professor Péter Eckler**.
+This is a collection of mobile app projects built during my Mobile Development course at the Aquincum Institute of Technology (AIT), taught by **Professor Péter Eckler**.
 
 All apps were developed using **Kotlin** in **Android Studio**, mainly using **Jetpack Compose** for UI.
 
